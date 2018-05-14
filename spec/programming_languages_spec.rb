@@ -1,4 +1,4 @@
-require 'spec_helper'
+learequire 'spec_helper'
 
 describe '#reformat_languages' do
 
