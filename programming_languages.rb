@@ -6,6 +6,7 @@ def reformat_languages(languages)
   languages.each do |oo_or_functional, language_hash|
     language_hash.each do |language, lang_attr_hash|
       lang_attr_hash.each do |lang_type, lang_str|
+        
 
       end
     end
